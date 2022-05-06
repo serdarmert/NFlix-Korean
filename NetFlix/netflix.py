@@ -14,6 +14,10 @@ from selenium.webdriver import ChromeOptions, Chrome
 
 url = "https://www.netflix.com/browse"
 s = Service("C:\\Users\Mojo\Documents\Chromedriver.exe")
+email = ""
+password = ""
+profile = "UFBMC2MIZ5GUFCEH24DH7LOHNA\""
+profile_link = "a[href^=\"/SwitchProfile?tkn=" + profile
 options =webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
 prefs = {"profile.default_content_setting_values.notifications" : 2}
@@ -24,15 +28,15 @@ driver.get(url)
 time.sleep(1)
 
 
-driver.find_element(by=By.NAME, value="userLoginId").send_keys("safakcimenli@gmail.com")
-driver.find_element(by=By.NAME, value="password").send_keys("862479310s.")
+driver.find_element(by=By.NAME, value="userLoginId").send_keys(email)
+driver.find_element(by=By.NAME, value="password").send_keys(password)
 
 driver.find_element(by=By.CLASS_NAME, value="btn-submit").click()
 time.sleep(1)
-driver.find_element(by=By.CSS_SELECTOR,value="a[href^=\"/SwitchProfile?tkn=UFBMC2MIZ5GUFCEH24DH7LOHNA\"").click()
+driver.find_element(by=By.CSS_SELECTOR,value=profile_link).click()
 time.sleep(1)
 
-driver.get("https://www.netflix.com/search?q=kore")   #.text.encode('utf-8').decode('ascii', 'ignore')
+driver.get("https://www.netflix.com/search?q=korean")
 time.sleep(3)
 for counter_ in range (1,5):
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
