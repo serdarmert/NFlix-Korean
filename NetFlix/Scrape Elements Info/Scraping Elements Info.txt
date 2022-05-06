@@ -1,0 +1,151 @@
+<div role="dialog" aria-modal="true" tabindex="-1" class="previewModal--container detail-modal has-smaller-buttons" data-uia="preview-modal-container-DETAIL_MODAL" style="width: 850px; top: -46px; left: auto; transform-origin: center top; transform: translateX(0px)  scaleX(1) scaleY(1) translateZ(0px); box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 10px; z-index: 2; opacity: 1; margin-bottom: 2em; min-width: 850px;">
+  <div class="previewModal--player_container detail-modal has-smaller-buttons" data-uia="previewModal--player_container">
+    <div class="videoMerchPlayer--boxart-wrapper" style="position: absolute;">
+      <img class="previewModal--boxart" src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ5a1f_DJ1Nv-xxrU_mZsM69bOmL5-RVqDAXfIarA1XKolCWSCpUwxjIMNHysv5aoZ0u1pgFfIVR6L3eKSxHmM9_yT2u.webp?r=ed6" aria-hidden="true" alt="Parazit" style="opacity: 0;">
+      <img alt="" src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ5a1f_DJ1Nv-xxrU_mZsM69bOmL5-RVqDAXfIarA1XKolCWSCpUwxjIMNHysv5aoZ0u1pgFfIVR6L3eKSxHmM9_yT2u.webp?r=ed6" aria-hidden="true" style="display: none;">
+    ,
+    <div class="storyArt detail-modal has-smaller-buttons">
+      <img src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeS2Zr_Lrs-20QGwzv0D2WvJ1MUkDL42S71TOsN2Ak10lmsYO-Vhm_t_8oBOyGbHbS6Pgq4ULyHneTqwtfv2G-NwWMPM.webp?r=ab3" alt="Parazit" class="playerModel--player__storyArt detail-modal has-smaller-buttons" style="opacity: 1;">
+      <img alt="" src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeS2Zr_Lrs-20QGwzv0D2WvJ1MUkDL42S71TOsN2Ak10lmsYO-Vhm_t_8oBOyGbHbS6Pgq4ULyHneTqwtfv2G-NwWMPM.webp?r=ab3" aria-hidden="true" style="display: none;">
+    ,
+    <div style="opacity: 1;">
+      <div class="previewModal--player-titleTreatmentWrapper" style="opacity: 1;">
+        <div class="previewModal--player-titleTreatment-left previewModal--player-titleTreatment detail-modal has-smaller-buttons detail-modal has-smaller-buttons">
+          <img alt="" src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWVc0ynkFvi6lMZcQDanpkhm9wOt1AQ0QxqYLaLjxdKCfGe1WkiA-2WldsB-q7TaTu8bRWOH_09M2IvJ8EJnBXwUiqkCPX5ctyk.webp?r=878" aria-hidden="true" style="display: none;">
+          <img class="previewModal--player-titleTreatment-logo" alt="Parazit" title="Parazit" src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWVc0ynkFvi6lMZcQDanpkhm9wOt1AQ0QxqYLaLjxdKCfGe1WkiA-2WldsB-q7TaTu8bRWOH_09M2IvJ8EJnBXwUiqkCPX5ctyk.webp?r=878" style="width: 100%; opacity: 1;">
+          <div class="buttonControls--container" data-uia="mini-modal-controls">
+            <a tabindex="0" toolkitsize="small" listid="NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0" ranknum="31" requestid="NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0" rownum="0" trackid="255824129" searchplaytype="titlesResults" data-uia="play-button" role="link" aria-label="Oynat" class="primary-button playLink isToolkit" href="/watch/81221938?trackId=255824129&amp;tctx=0,31,NAPA%40%40|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,NAPA%40%40|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,unknown,,6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904|1,">
+            </a>
+
+
+              <div class="ptrack-content" data-ui-tracking-context="{,lolomo_id,:,unknown,,,list_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,location,:,searchResults,,,rank,:31,,request_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,row,:0,,track_id,:255824129,,video_id,:81221938,,supp_video_id,:1,,appView,:,addToMyListButton,,,usePresentedEvent,:true}" data-tracking-uuid="72fa8d8e-6429-4ea9-b20f-86ddf733c0c6">
+
+
+<span class="match-score">%92 Eşleşme,
+
+<div class="videoMetadata--second-line">
+<div class="year">2019
+
+<span class="maturity-number">16+,
+<span class="duration">2 sa. 6 dk.
+<span class="player-feature-badge">HD,
+<span class="duration ellipsized">1 sa. 48 dk.
+
+
+              <p class="preview-modal-synopsis previewModal--text" data-uia="preview-modal-synopsis">
+              <div class="ptrack-content" data-ui-tracking-context="{,evidenceKey,:,web_synopsis|81221938_INFORMATIVE|tr|_IFD_,,,video_id,:81221938,,track_id,:255824129,,request_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,list_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,row,:0,,rank,:31,,appView,:,synopsisEvidence,,,usePresentedEvent,:true}" data-tracking-uuid="35a45145-2902-4ee4-bcf7-d2ca90776abb">Yoksul bir ailenin kurnaz üyeleri, ayrıcalıklı bir hayat süren ve yokluk nedir bilmeyen zengin bir ailenin hizmetinde birer birer çalışmaya başlar.,
+
+  
+
+              <div class="previewModal--tags" data-uia="previewModal--tags-genre">
+                <span class="previewModal--tags-label">Türler:,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/genre/81427756"> Kore Yapımları, </a>
+
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/genre/6548">Komediler, </a>
+
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/genre/8933">Gerilim Filmleri</a>
+
+      <div class="ptrack-container">
+        <div class="ptrack-content" data-ui-tracking-context="{,appView,:,similarTitlesSelector,}" data-tracking-uuid="95e6fd1b-ca4d-4a4d-9733-5a1768dd61cd">
+          <div class="ptrack-container">
+            <div class="moreLikeThis--wrapper">
+              <h3 class="previewModal--section-header moreLikeThis--header">Benzerleri</h3>
+              <div class="section-container collapsed" data-uia="section-container" style="max-height: 65em;">
+                <div class="moreLikeThis--container" data-uia="moreLikeThis--container">
+                  <div class="titleCard--container more-like-this-item" tabindex="0" aria-label="Forgotten" data-uia="titleCard--container" role="button">
+                    <div class="titleCard-imageWrapper has-duration">
+                      <div class="ptrack-content" data-ui-tracking-context="{,list_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,location,:,movieDetails,,,rank,:0,,request_id,:,437c5ada-fcd3-4b25-ad67-a7c0e8f63d82-300404250,,,row,:0,,track_id,:13212365,,video_id,:80223050,,image_key,:,sdp|104905a0-05e9-11e8-99e9-0eb0dd832e3c|tr,,,supp_video_id,:1,,lolomo_id,:,unknown,,,napaRequestId,:,6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904|1,,,appView,:,boxArt,,,usePresentedEvent,:true}" data-tracking-uuid="76a36d18-9244-4501-a7b8-32d3719c60fe">
+                        <img src="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd7R3r1nqcYR_j-xIJ1vGCNsZ6-1YQ-xNts2rOprSD1PMSYyBXcv7xv6l6-Ms7NXfWcfpLZlIkusgN71y0qUw-CDo5binFhC_ykcW0ORPr38MeEv5-9ZHdtH6-rH.jpg?r=d41" alt="Forgotten">
+
+
+
+
+                            <div class="ptrack-content" data-ui-tracking-context="{,lolomo_id,:,unknown,,,list_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,location,:,searchResults,,,rank,:31,,request_id,:,NAPA@@|6e8ac10a-9f00-45c6-9bfe-1bc624bcaaba-20229904_titles/1//kore/0/0,,,row,:0,,track_id,:255824129,,video_id,:80223050,,supp_video_id,:1,,appView,:,addToMyListButton,,,usePresentedEvent,:true}" data-tracking-uuid="6fc51b30-b25f-4381-9574-f2a6af7aa624">
+                              <button aria-label="Listeme Ekle" class="color-supplementary hasIcon round ltr-1f1y58d" data-uia="add-to-my-list" type="button">
+                                <div class="ltr-1ksxkn9">
+                                  <div class="small ltr-18dhnor" role="presentation">
+                                    ,
+                                      <path fill-rule="evenodd" clip-rule="evenodd" d="M11 2V11H2V13H11V22H13V13H22V11H13V2H11Z" fill="currentColor"></path>
+          
+
+
+
+                 
+
+ 
+            <div class="about-header">
+              <h3 id="" class="previewModal--section-header" data-uia="">
+                <strong>Parazit</strong> Hakkında
+              </h3>
+,
+            <div class="about-container" data-uia="about-container">
+              <div class="previewModal--tags" data-uia="previewModal--tags-person">
+                <span class="previewModal--tags-label">Yönetmen:,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/30092462"> Bong Joon Ho</a>
+,
+,
+              <div class="previewModal--tags" data-uia="previewModal--tags-person">
+                <span class="previewModal--tags-label">Oyuncu kadrosu:,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/20031276"> Song Kang-ho, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/30128356">Lee Sun-kyun, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/40004097">Cho Yeo-jeong, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/40008765">Choi Woo-shik, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/40083496">Park So-dam, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/60062826">Lee Jung-eun, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/60083684">Chang Hyae-jin, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/40007001">Park Myung-hoon, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/60083686">Jung Ziso, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/60165897">Jung Hyeon-jun</a>
+,
+,
+              <div class="previewModal--tags" data-uia="previewModal--tags-person">
+                <span class="previewModal--tags-label">Senarist:,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/30092462"> Bong Joon Ho, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/person/60083683">Han Jin-won</a>
+,
+,
+              <div class="previewModal--tags" data-uia="previewModal--tags-genre">
+                <span class="previewModal--tags-label">Türler:,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/genre/81427756"> Kore Yapımları, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/genre/6548">Komediler, </a>
+,
+                <span class="tag-item" data-uia="tag-item">
+                  <a historystate="[object Object]" href="/browse/m/genre/8933">Gerilim Filmleri</a>
+,
+,
+              <div class="maturity-rating-wrapper">
+                <span class="title">Yetişkinlik düzeyi:,
+                <span class="maturity-rating ">
+                  <a href="https://help.netflix.com/support/2064" class="maturity-number">16+</a>
+                  <p class="specificRatingReason">şiddet, cinsellik, argo, madde kullanımı</p>
+                  <p class="maturityDescription">16 yaş ve üzerindeki izleyiciler için uygun</p>
+,
